@@ -1,0 +1,251 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+    
+.container {
+
+
+
+}
+    
+
+
+.navbar-container {
+    /* background-color:#333; */
+    width: 100%;
+    height: 10vh;
+
+}
+
+.fathir {
+    /* background-color: black; */
+    height: 20px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.li-navbar {
+    /* border: 1px solid white; */
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 6px;
+    margin: 5px;
+      color: white;  
+}
+
+.a-navbar:hover{
+    color:red;
+    transition: .2s ease-in-out;
+    transition-delay: .2s;
+}
+.a-navbar {
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.container-content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+.img-content {
+    width: 600;
+    height: 300;
+}
+
+.teksgw {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    color:white;
+}
+
+.container-footer {
+    height: 20px;
+    color:white;
+     /* background-color: crimson;  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homebase {
+    height: 20px;
+    color:red;
+     /* background-color: crimson;  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer {
+    font-size: 20px;
+}
+
+.aboutme {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 6px;
+    margin: 5px;
+      color: white;  
+      font-size: small;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.champs {
+    max-width: 320px;
+    float: left; 
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.hobi {
+    max-width: 320px;
+    float: left; 
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 15px;
+}
+.foto {
+    max-width: 320px;
+    float: left; 
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 15px;
+
+}
+img {
+    max-width: 320px;
+    float: left; 
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 15px;
+
+}
+.badanweb4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #7d2ae8;
+}
+.badanweb3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #7d2ae8;
+}
+.badanweb2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #7d2ae8;
+}
+.badan-web {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #7d2ae8;
+}
+.champ {
+    margin: 150px auto;
+    width: 70%;
+}
+.pogram {
+    margin: 150px auto;
+    width: 70%;
+}
+.sekolah {
+    margin: 150px auto;
+    width: 70%;
+}
+.wrapper {
+    margin: 150px auto;
+    width: 70%;
+}
+.text-sekolah {
+    color: white;
+}
+.text-cita {
+    color: white;
+}
+.text-hobi {
+    color: white;
+}
+.text-box {
+    color: #fff;
+
+}
+.text-box h4 {
+    font-size: 42px;
+}
+.text-box h3 {
+    font-size: 42px;
+}
+.text-box h2 {
+    font-size: 42px;
+}
+.text-box h1 {
+    font-size: 42px;
+}
+.tekss-cita h4 {
+    font-size: 42px;
+
+}
+.teks-cita {
+    font-size: 16px;
+}
+.teks-hobi{
+    font-size: 16px;
+}
+.teks-sekolah {
+    font-size: 16px;
+}
+.text-box p {
+    font-size: 16px;
+}
+
