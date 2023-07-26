@@ -17,7 +17,13 @@ html {
     height: 10vh;
 
 }
-
+.container-find {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
 .fathir {
     /* background-color: black; */
     height: 20px;
